@@ -1,1 +1,6 @@
-
+<?xml version="1.0"?>
+<Google>
+   <Chrome>
+      <Update>calc.exe</Update>
+   </Chrome>
+</Google>
